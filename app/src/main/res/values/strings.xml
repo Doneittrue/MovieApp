@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Snap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+    <!--menu-->
+    <string name="action_share">Share</string>
+    <string name="SortedByPopularity">Sorted By Popularity</string>
+    <string name="SortByRatingLevel">Sort By Rating Level</string>
+    <string name="MyFavorite">My Favorite</string>
+
+    <!-- provider -->
+    <string name="content_authority">com.example.khale.moviesnap</string>
+    <!-- wifi design-->
+    <string name="wifi">Enable wifi connection</string>
+    <!-- fragment_detail.xml -->
+    <string name="Basicinformation">Basic information :</string>
+    <string name="RatingLevel">Rating Level :</string>
+    <string name="LunchedDate">Launched Date :</string>
+    <string name="OriginalLanguage">Original Language :</string>
+    <string name="Description">Description :</string>
+    <string name="Trailers">Trailers :</string>
+    <string name="ScrollTrailers">Note : you can Scroll Trailers if Exist</string>
+    <string name="NoTrailers">.......  No More Trailers To Show.......</string>
+    <string name="Reviews">Reviews :</string>
+    <string name="ScrollReviews">Note : you can Scroll Reviews</string>
+    <string name="noReviews">.......  No More Reviews To Show.......</string>
+    <string name="unFavorite">Un Favorite</string>
+    <string name="Favorite">Favorite</string>
+
+</resources>
